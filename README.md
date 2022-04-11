@@ -6,6 +6,6 @@ Ielison
 Ariane Sanchez
 João Lassi
 Gabriel Azevedo
-Danina Fromer
+Danielle Lisboa (Danina Fromer)
 Emanuel nogueira
 Cah Felix
