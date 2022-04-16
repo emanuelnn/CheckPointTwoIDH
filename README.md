@@ -2,7 +2,7 @@
 Atividade referente ao segundo checkpoint da disciplina de Introdução a Informática
 Grupo:
 Fabio Augusto
-Ielison
+Iélison Barbosa
 Ariane Sanchez
 João Lassi
 Gabriel Azevedo
