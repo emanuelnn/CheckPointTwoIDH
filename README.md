@@ -1,5 +1,6 @@
 # checkpoint2
-Atividade referente ao segundo checkpoint da disciplina de Introdução a Informática
+Atividade referente ao Checkpoint 2 da disciplina de Introdução a Informática.
+
 Grupo:
 - [Fabio Augusto](https://github.com/FabioCTD)
 - [Iélison Barbosa](https://github.com/ielison)
